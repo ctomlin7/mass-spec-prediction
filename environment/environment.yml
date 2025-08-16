@@ -12,6 +12,7 @@ dependencies:
   - pandas
   - matplotlib
   - seaborn
+  - networkx
   # Chemistry Packages
   - rdkit
   # ML Packages
@@ -19,6 +20,8 @@ dependencies:
   - torch-geometric
   - scikit-optimize
   - scikit-learn
+  - tensorflow
+  - keras
   # Testing
   - pytest
   - pytest-cov
